@@ -5,4 +5,4 @@ Bad news, site is currently under development.
 
 But at current moment you can visit my pages at:
 * [GitHub](https://github.com/BondarenkoArtur)
-* [LinkedIn](https://www.linkedin.com/in/artur-bondarenko-993001103/)
+* [LinkedIn](http://linkedin.com/in/arturbondarenko)
